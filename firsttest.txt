@@ -1,0 +1,2 @@
+this is just a first text file
+to learn git ang github
