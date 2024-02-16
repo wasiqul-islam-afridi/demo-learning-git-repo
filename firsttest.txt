@@ -4,3 +4,4 @@ this is oneline added extra after the original
 this is twoline added to check
 this is the third line 
 branch line one edit 
+cli merge one line
